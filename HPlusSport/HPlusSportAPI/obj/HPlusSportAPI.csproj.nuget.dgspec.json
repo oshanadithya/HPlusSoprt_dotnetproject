@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\dotnet\\HPlusSport\\HPlusSportAPI\\HPlusSportAPI.csproj": {}
+    "C:\\Project\\HPlusSoprt_dotnetproject\\HPlusSport\\HPlusSportAPI\\HPlusSportAPI.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\dotnet\\HPlusSport\\HPlusSportAPI\\HPlusSportAPI.csproj": {
+    "C:\\Project\\HPlusSoprt_dotnetproject\\HPlusSport\\HPlusSportAPI\\HPlusSportAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\dotnet\\HPlusSport\\HPlusSportAPI\\HPlusSportAPI.csproj",
+        "projectUniqueName": "C:\\Project\\HPlusSoprt_dotnetproject\\HPlusSport\\HPlusSportAPI\\HPlusSportAPI.csproj",
         "projectName": "HPlusSportAPI",
-        "projectPath": "D:\\Projects\\dotnet\\HPlusSport\\HPlusSportAPI\\HPlusSportAPI.csproj",
+        "projectPath": "C:\\Project\\HPlusSoprt_dotnetproject\\HPlusSport\\HPlusSportAPI\\HPlusSportAPI.csproj",
         "packagesPath": "C:\\Users\\Oshan\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\dotnet\\HPlusSport\\HPlusSportAPI\\obj\\",
+        "outputPath": "C:\\Project\\HPlusSoprt_dotnetproject\\HPlusSport\\HPlusSportAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
